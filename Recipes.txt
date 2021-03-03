@@ -8,6 +8,8 @@ kheer
 
 palac
 
+vue and node js
+
 
 git
 
